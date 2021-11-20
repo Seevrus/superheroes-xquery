@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<publishers>
+    <publisher name="Marvel Comics" superheroes="269"/>
+    <publisher name="DC Comics" superheroes="155"/>
+    <publisher name="Dark Horse Comics" superheroes="15"/>
+    <publisher name="George Lucas" superheroes="12"/>
+    <publisher name="NBC - Heroes" superheroes="10"/>
+    <publisher name="Star Trek" superheroes="6"/>
+    <publisher name="SyFy" superheroes="5"/>
+    <publisher name="Icon Comics" superheroes="4"/>
+    <publisher name="ABC Studios" superheroes="4"/>
+    <publisher name="IDW Publishing" superheroes="4"/>
+    <publisher name="Shueisha" superheroes="4"/>
+    <publisher name="Goliath" superheroes="3"/>
+    <publisher name="Image Comics" superheroes="3"/>
+    <publisher name="Deadpool" superheroes="2"/>
+    <publisher name="Sony Pictures" superheroes="2"/>
+    <publisher name="Batman II" superheroes="2"/>
+    <publisher name="Anti-Venom" superheroes="2"/>
+    <publisher name="Wildstorm" superheroes="1"/>
+    <publisher name="Archangel" superheroes="1"/>
+    <publisher name="Tempest" superheroes="1"/>
+    <publisher name="Giant-Man" superheroes="1"/>
+    <publisher name="Toxin" superheroes="1"/>
+    <publisher name="Angel" superheroes="1"/>
+    <publisher name="Oracle" superheroes="1"/>
+    <publisher name="Spoiler" superheroes="1"/>
+    <publisher name="Nightwing" superheroes="1"/>
+    <publisher name="Meltdown" superheroes="1"/>
+    <publisher name="Gemini V" superheroes="1"/>
+    <publisher name="South Park" superheroes="1"/>
+    <publisher name="Binary" superheroes="1"/>
+    <publisher name="Universal Studios" superheroes="1"/>
+    <publisher name="Evil Deadpool" superheroes="1"/>
+    <publisher name="Black Racer" superheroes="1"/>
+    <publisher name="Speed Demon" superheroes="1"/>
+    <publisher name="Impulse" superheroes="1"/>
+    <publisher name="J. K. Rowling" superheroes="1"/>
+    <publisher name="Batgirl III" superheroes="1"/>
+    <publisher name="Flash IV" superheroes="1"/>
+    <publisher name="Titan Books" superheroes="1"/>
+    <publisher name="Phoenix" superheroes="1"/>
+    <publisher name="Power Woman" superheroes="1"/>
+    <publisher name="Rebellion" superheroes="1"/>
+    <publisher name="Iron Lad" superheroes="1"/>
+    <publisher name="Power Man" superheroes="1"/>
+    <publisher name="Microsoft" superheroes="1"/>
+    <publisher name="Boom-Boom" superheroes="1"/>
+    <publisher name="Batgirl V" superheroes="1"/>
+    <publisher name="She-Thing" superheroes="1"/>
+    <publisher name="Batgirl" superheroes="1"/>
+    <publisher name="Jean Grey" superheroes="1"/>
+    <publisher name="Robin II" superheroes="1"/>
+    <publisher name="Robin III" superheroes="1"/>
+    <publisher name="Red Hood" superheroes="1"/>
+    <publisher name="Red Robin" superheroes="1"/>
+    <publisher name="J. R. R. Tolkien" superheroes="1"/>
+    <publisher name="Spider-Carnage" superheroes="1"/>
+    <publisher name="Venom III" superheroes="1"/>
+    <publisher name="Ms Marvel II" superheroes="1"/>
+    <publisher name="Aztar" superheroes="1"/>
+    <publisher name="Superman Prime One-Million" superheroes="1"/>
+    <publisher name="Angel Salvadore" superheroes="1"/>
+    <publisher name="Rune King Thor" superheroes="1"/>
+    <publisher name="Scorpion" superheroes="1"/>
+    <publisher name="Vindicator II" superheroes="1"/>
+    <publisher name="Anti-Vision" superheroes="1"/>
+    <publisher name="Thunderbird II" superheroes="1"/>
+    <publisher name="Ant-Man" superheroes="1"/>
+</publishers>

@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stats>
+    <min-stats>
+        <strength>
+            <superhero name="Kid Flash" strength="4"/>
+            <superhero name="Rachel Pirzad" strength="4"/>
+        </strength>
+        <durability>
+            <superhero name="Franklin Storm" durability="1"/>
+            <superhero name="Wyatt Wingfoot" durability="1"/>
+        </durability>
+        <combat>
+            <superhero name="Paul Blart" combat="5"/>
+        </combat>
+        <power>
+            <superhero name="Franklin Storm" power="0"/>
+        </power>
+        <speed>
+            <superhero name="Franklin Storm" speed="1"/>
+        </speed>
+        <intelligence>
+            <superhero name="Jack-Jack" intelligence="6"/>
+        </intelligence>
+    </min-stats>
+    <max-stats>
+        <strength>
+            <superhero name="A-Bomb" strength="100"/>
+            <superhero name="Amazo" strength="100"/>
+            <superhero name="Anti-Monitor" strength="100"/>
+            <superhero name="Apocalypse" strength="100"/>
+            <superhero name="Ardina" strength="100"/>
+            <superhero name="Atlas" strength="100"/>
+            <superhero name="Beyonder" strength="100"/>
+            <superhero name="Big Barda" strength="100"/>
+            <superhero name="Black Adam" strength="100"/>
+            <superhero name="Captain Marvel" strength="100"/>
+            <superhero name="Cheetah III" strength="100"/>
+            <superhero name="Darkseid" strength="100"/>
+            <superhero name="Doomsday" strength="100"/>
+            <superhero name="Dr Manhattan" strength="100"/>
+            <superhero name="Galactus" strength="100"/>
+            <superhero name="General Zod" strength="100"/>
+            <superhero name="Gladiator" strength="100"/>
+            <superhero name="Godzilla" strength="100"/>
+            <superhero name="Goku" strength="100"/>
+            <superhero name="Hela" strength="100"/>
+            <superhero name="Hercules" strength="100"/>
+            <superhero name="Hulk" strength="100"/>
+            <superhero name="Hyperion" strength="100"/>
+            <superhero name="Juggernaut" strength="100"/>
+            <superhero name="King Kong" strength="100"/>
+            <superhero name="Legion" strength="100"/>
+            <superhero name="Living Tribunal" strength="100"/>
+            <superhero name="Lobo" strength="100"/>
+            <superhero name="Magus" strength="100"/>
+            <superhero name="Man of Miracles" strength="100"/>
+            <superhero name="One Punch Man" strength="100"/>
+            <superhero name="One-Above-All" strength="100"/>
+            <superhero name="Onslaught" strength="100"/>
+            <superhero name="Phoenix" strength="100"/>
+            <superhero name="Power Girl" strength="100"/>
+            <superhero name="Red Hulk" strength="100"/>
+            <superhero name="Sentry" strength="100"/>
+            <superhero name="She-Hulk" strength="100"/>
+            <superhero name="Silver Surfer" strength="100"/>
+            <superhero name="Spectre" strength="100"/>
+            <superhero name="Steppenwolf" strength="100"/>
+            <superhero name="Superboy-Prime" strength="100"/>
+            <superhero name="Supergirl" strength="100"/>
+            <superhero name="Superman" strength="100"/>
+            <superhero name="Thanos" strength="100"/>
+            <superhero name="Thor" strength="100"/>
+            <superhero name="Vegeta" strength="100"/>
+            <superhero name="Wonder Man" strength="100"/>
+            <superhero name="Wonder Woman" strength="100"/>
+            <superhero name="Ymir" strength="100"/>
+        </strength>
+        <durability>
+            <superhero name="Stardust" durability="110"/>
+        </durability>
+        <combat>
+            <superhero name="Ares" combat="101"/>
+        </combat>
+        <power>
+            <superhero name="Abe Sapien" power="100"/>
+            <superhero name="Abraxas" power="100"/>
+            <superhero name="Adam Monroe" power="100"/>
+            <superhero name="Air-Walker" power="100"/>
+            <superhero name="Alan Scott" power="100"/>
+            <superhero name="Alex Mercer" power="100"/>
+            <superhero name="Amazo" power="100"/>
+            <superhero name="Angel" power="100"/>
+            <superhero name="Anti-Monitor" power="100"/>
+            <superhero name="Apocalypse" power="100"/>
+            <superhero name="Aquaman" power="100"/>
+            <superhero name="Ardina" power="100"/>
+            <superhero name="Azazel" power="100"/>
+            <superhero name="Beta Ray Bill" power="100"/>
+            <superhero name="Beyonder" power="100"/>
+            <superhero name="Big Barda" power="100"/>
+            <superhero name="Bishop" power="100"/>
+            <superhero name="Bizarro" power="100"/>
+            <superhero name="Black Adam" power="100"/>
+            <superhero name="Black Bolt" power="100"/>
+            <superhero name="Black Flash" power="100"/>
+            <superhero name="Bloodaxe" power="100"/>
+            <superhero name="Blue Beetle III" power="100"/>
+            <superhero name="Cable" power="100"/>
+            <superhero name="Captain Atom" power="100"/>
+            <superhero name="Captain Marvel" power="100"/>
+            <superhero name="Captain Marvel" power="100"/>
+            <superhero name="Captain Planet" power="100"/>
+            <superhero name="Century" power="100"/>
+            <superhero name="Cloak" power="100"/>
+            <superhero name="Cyborg Superman" power="100"/>
+            <superhero name="Darkseid" power="100"/>
+            <superhero name="Darth Maul" power="100"/>
+            <superhero name="Darth Vader" power="100"/>
+            <superhero name="Dazzler" power="100"/>
+            <superhero name="Deadman" power="100"/>
+            <superhero name="Deadpool" power="100"/>
+            <superhero name="Doctor Doom" power="100"/>
+            <superhero name="Doctor Fate" power="100"/>
+            <superhero name="Doctor Strange" power="100"/>
+            <superhero name="Doomsday" power="100"/>
+            <superhero name="Dormammu" power="100"/>
+            <superhero name="Dr Manhattan" power="100"/>
+            <superhero name="Emma Frost" power="100"/>
+            <superhero name="Enchantress" power="100"/>
+            <superhero name="Etrigan" power="100"/>
+            <superhero name="Evil Deadpool" power="100"/>
+            <superhero name="Exodus" power="100"/>
+            <superhero name="Fallen One II" power="100"/>
+            <superhero name="Firebird" power="100"/>
+            <superhero name="Firestorm" power="100"/>
+            <superhero name="Firestorm" power="100"/>
+            <superhero name="Flash II" power="100"/>
+            <superhero name="Flash III" power="100"/>
+            <superhero name="Flash IV" power="100"/>
+            <superhero name="Franklin Richards" power="100"/>
+            <superhero name="Galactus" power="100"/>
+            <superhero name="General Zod" power="100"/>
+            <superhero name="Ghost Rider" power="100"/>
+            <superhero name="Godzilla" power="100"/>
+            <superhero name="Goku" power="100"/>
+            <superhero name="Gorilla Grodd" power="100"/>
+            <superhero name="Groot" power="100"/>
+            <superhero name="Guy Gardner" power="100"/>
+            <superhero name="Hal Jordan" power="100"/>
+            <superhero name="Hancock" power="100"/>
+            <superhero name="Harry Potter" power="100"/>
+            <superhero name="Hela" power="100"/>
+            <superhero name="Hybrid" power="100"/>
+            <superhero name="Iceman" power="100"/>
+            <superhero name="Indigo" power="100"/>
+            <superhero name="Iron Man" power="100"/>
+            <superhero name="Jack-Jack" power="100"/>
+            <superhero name="Jessica Cruz" power="100"/>
+            <superhero name="Kang" power="100"/>
+            <superhero name="Kevin 11" power="100"/>
+            <superhero name="Kilowog" power="100"/>
+            <superhero name="Kyle Rayner" power="100"/>
+            <superhero name="Kylo Ren" power="100"/>
+            <superhero name="Legion" power="100"/>
+            <superhero name="Living Tribunal" power="100"/>
+            <superhero name="Lobo" power="100"/>
+            <superhero name="Loki" power="100"/>
+            <superhero name="Luke Skywalker" power="100"/>
+            <superhero name="Magus" power="100"/>
+            <superhero name="Man of Miracles" power="100"/>
+            <superhero name="Man-Thing" power="100"/>
+            <superhero name="Mandarin" power="100"/>
+            <superhero name="Mantis" power="100"/>
+            <superhero name="Martian Manhunter" power="100"/>
+            <superhero name="Marvel Girl" power="100"/>
+            <superhero name="Match" power="100"/>
+            <superhero name="Mephisto" power="100"/>
+            <superhero name="Metron" power="100"/>
+            <superhero name="Miss Martian" power="100"/>
+            <superhero name="Mister Mxyzptlk" power="100"/>
+            <superhero name="Mister Sinister" power="100"/>
+            <superhero name="Naruto Uzumaki" power="100"/>
+            <superhero name="Nova" power="100"/>
+            <superhero name="Nova" power="100"/>
+            <superhero name="Odin" power="100"/>
+            <superhero name="Offspring" power="100"/>
+            <superhero name="One-Above-All" power="100"/>
+            <superhero name="Onslaught" power="100"/>
+            <superhero name="Phoenix" power="100"/>
+            <superhero name="Plastic Man" power="100"/>
+            <superhero name="Poison Ivy" power="100"/>
+            <superhero name="Polaris" power="100"/>
+            <superhero name="Power Girl" power="100"/>
+            <superhero name="Predator" power="100"/>
+            <superhero name="Professor X" power="100"/>
+            <superhero name="Psylocke" power="100"/>
+            <superhero name="Q" power="100"/>
+            <superhero name="Ray" power="100"/>
+            <superhero name="Red Tornado" power="100"/>
+            <superhero name="Rip Hunter" power="100"/>
+            <superhero name="Sandman" power="100"/>
+            <superhero name="Sauron" power="100"/>
+            <superhero name="Scarlet Witch" power="100"/>
+            <superhero name="Sentry" power="100"/>
+            <superhero name="Shadow King" power="100"/>
+            <superhero name="Sif" power="100"/>
+            <superhero name="Silver Surfer" power="100"/>
+            <superhero name="Simon Baz" power="100"/>
+            <superhero name="Sinestro" power="100"/>
+            <superhero name="Spawn" power="100"/>
+            <superhero name="Spectre" power="100"/>
+            <superhero name="Stardust" power="100"/>
+            <superhero name="Steppenwolf" power="100"/>
+            <superhero name="Superboy-Prime" power="100"/>
+            <superhero name="Supergirl" power="100"/>
+            <superhero name="Superman" power="100"/>
+            <superhero name="Swamp Thing" power="100"/>
+            <superhero name="T-1000" power="100"/>
+            <superhero name="T-X" power="100"/>
+            <superhero name="Thanos" power="100"/>
+            <superhero name="Thor" power="100"/>
+            <superhero name="Thor Girl" power="100"/>
+            <superhero name="Ultron" power="100"/>
+            <superhero name="Vegeta" power="100"/>
+            <superhero name="Venompool" power="100"/>
+            <superhero name="Vision" power="100"/>
+            <superhero name="War Machine" power="100"/>
+            <superhero name="Watcher" power="100"/>
+            <superhero name="Wonder Woman" power="100"/>
+            <superhero name="X-Man" power="100"/>
+            <superhero name="Yoda" power="100"/>
+            <superhero name="Zatanna" power="100"/>
+            <superhero name="Zoom" power="100"/>
+        </power>
+        <speed>
+            <superhero name="Air-Walker" speed="100"/>
+            <superhero name="Ardina" speed="100"/>
+            <superhero name="Beyonder" speed="100"/>
+            <superhero name="Bizarro" speed="100"/>
+            <superhero name="Black Bolt" speed="100"/>
+            <superhero name="Black Flash" speed="100"/>
+            <superhero name="Flash" speed="100"/>
+            <superhero name="Flash II" speed="100"/>
+            <superhero name="Flash III" speed="100"/>
+            <superhero name="Flash IV" speed="100"/>
+            <superhero name="Gladiator" speed="100"/>
+            <superhero name="Hyperion" speed="100"/>
+            <superhero name="Impulse" speed="100"/>
+            <superhero name="Jack of Hearts" speed="100"/>
+            <superhero name="Krypto" speed="100"/>
+            <superhero name="Living Tribunal" speed="100"/>
+            <superhero name="Man of Miracles" speed="100"/>
+            <superhero name="Mister Mxyzptlk" speed="100"/>
+            <superhero name="Nova" speed="100"/>
+            <superhero name="One-Above-All" speed="100"/>
+            <superhero name="Power Girl" speed="100"/>
+            <superhero name="Professor Zoom" speed="100"/>
+            <superhero name="Quicksilver" speed="100"/>
+            <superhero name="Sentry" speed="100"/>
+            <superhero name="Silver Surfer" speed="100"/>
+            <superhero name="Spectre" speed="100"/>
+            <superhero name="Stardust" speed="100"/>
+            <superhero name="Superboy-Prime" speed="100"/>
+            <superhero name="Supergirl" speed="100"/>
+            <superhero name="Superman" speed="100"/>
+            <superhero name="Zoom" speed="100"/>
+        </speed>
+        <intelligence>
+            <superhero name="Ant-Man" intelligence="100"/>
+            <superhero name="Apocalypse" intelligence="100"/>
+            <superhero name="Batman" intelligence="100"/>
+            <superhero name="Beyonder" intelligence="100"/>
+            <superhero name="Brainiac" intelligence="100"/>
+            <superhero name="Brainiac 5" intelligence="100"/>
+            <superhero name="Data" intelligence="100"/>
+            <superhero name="Doctor Doom" intelligence="100"/>
+            <superhero name="Doctor Strange" intelligence="100"/>
+            <superhero name="Galactus" intelligence="100"/>
+            <superhero name="Green Goblin" intelligence="100"/>
+            <superhero name="Iron Man" intelligence="100"/>
+            <superhero name="Joker" intelligence="100"/>
+            <superhero name="Kang" intelligence="100"/>
+            <superhero name="Leader" intelligence="100"/>
+            <superhero name="Lex Luthor" intelligence="100"/>
+            <superhero name="Living Tribunal" intelligence="100"/>
+            <superhero name="Man of Miracles" intelligence="100"/>
+            <superhero name="Mandarin" intelligence="100"/>
+            <superhero name="Martian Manhunter" intelligence="100"/>
+            <superhero name="Mister Fantastic" intelligence="100"/>
+            <superhero name="Mister Mxyzptlk" intelligence="100"/>
+            <superhero name="Mister Sinister" intelligence="100"/>
+            <superhero name="MODOK" intelligence="100"/>
+            <superhero name="Nova" intelligence="100"/>
+            <superhero name="Odin" intelligence="100"/>
+            <superhero name="One-Above-All" intelligence="100"/>
+            <superhero name="Ozymandias" intelligence="100"/>
+            <superhero name="Phoenix" intelligence="100"/>
+            <superhero name="Professor X" intelligence="100"/>
+            <superhero name="Q" intelligence="100"/>
+            <superhero name="Ra's Al Ghul" intelligence="100"/>
+            <superhero name="Riddler" intelligence="100"/>
+            <superhero name="Rip Hunter" intelligence="100"/>
+            <superhero name="Scarlet Witch" intelligence="100"/>
+            <superhero name="Thanos" intelligence="100"/>
+            <superhero name="Tinkerer" intelligence="100"/>
+            <superhero name="Vision" intelligence="100"/>
+            <superhero name="Watcher" intelligence="100"/>
+        </intelligence>
+    </max-stats>
+</stats>
