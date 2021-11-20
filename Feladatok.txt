@@ -1,0 +1,13 @@
+A legintelligensebb szuperhős
+Melyik kiadó adta ki a legtöbb / legkevesebb szuperhőst?
+Az a szuperhős, akinek egy tulajdonsága a legkisebb. Melyik ez a tulajdonság?
+A legerősebb szuperhős (powerstat átlag)
+Férfi szuperhősök átlagos magassága és testsúlya
+Egy adott szuperhősnél erősebb szuperhősök tömbje, az ő legjobb tulajdonsága szerint összehasonlítva és rendezve
+Olyan szuperhősök, akik jó útra tértek
+Jó hősök aránya fajonként, csökkenő sorrendben
+Szuperhősök száma fajonként, JSON asszociatív tömb formátumba sorolva
+Olyan csapatok, amelyekhez pozitív / negatív alignment is sorolható
+Név / Alignment / First Affilation / Number of affilations, HTML táblázat
+Csapatonként az átlag / min / max / szórás az egyes power statokra, XML formátumban
+Egymással rokonságban űálló párok, megjelöléssel együtt
