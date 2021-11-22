@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
+    xmlns:vc="http://www.w3.org/2007/XMLSchema-versioning" >
+
+    <xs:element name="stats">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="min-stats" type="stats-type" />
+                <xs:element name="max-stats" type="stats-type" />
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    
+    <xs:complexType name="stats-type">
+        <xs:sequence>
+            <xs:element name="strength" type="stat-hero-type" />
+            <xs:element name="durability" type="stat-hero-type" />
+            <xs:element name="combat" type="stat-hero-type" />
+            <xs:element name="power" type="stat-hero-type" />
+            <xs:element name="speed" type="stat-hero-type" />
+            <xs:element name="intelligence" type="stat-hero-type" />
+        </xs:sequence>
+    </xs:complexType>
+    
+    <xs:complexType name="stat-hero-type">
+        <xs:sequence>
+            <xs:element name="superhero" type="superhero" maxOccurs="unbounded" />
+        </xs:sequence>
+    </xs:complexType>
+    
+    <xs:complexType name="superhero">
+        <xs:simpleContent>
+            <xs:extension base="xs:string">
+                <xs:attribute name="name" type="xs:string" use="required" />
+                <xs:attribute name="stat" type="stat-value-type" use="required" />
+            </xs:extension>
+        </xs:simpleContent>
+    </xs:complexType>
+    
+    <xs:simpleType name="stat-value-type">
+        <xs:restriction base="xs:nonNegativeInteger">
+            <xs:maxInclusive value="100" />
+        </xs:restriction>
+    </xs:simpleType>
+</xs:schema>

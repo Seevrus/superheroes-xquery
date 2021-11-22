@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+    <xs:element name="former-criminals">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="former-criminal" type="former-criminal" maxOccurs="unbounded" />
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    
+    <xs:complexType name="former-criminal">
+        <xs:sequence>
+            <xs:element name="name" type="xs:decimal" />
+            <xs:element name="criminal-occupation" type="xs:decimal" />
+        </xs:sequence>
+    </xs:complexType>
+</xs:schema>

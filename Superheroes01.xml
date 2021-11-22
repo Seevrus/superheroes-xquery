@@ -1,42 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<names>
-   <name>Ant-Man</name>
-   <name>Apocalypse</name>
-   <name>Batman</name>
-   <name>Beyonder</name>
-   <name>Brainiac</name>
-   <name>Brainiac 5</name>
-   <name>Data</name>
-   <name>Doctor Doom</name>
-   <name>Doctor Strange</name>
-   <name>Galactus</name>
-   <name>Green Goblin</name>
-   <name>Iron Man</name>
-   <name>Joker</name>
-   <name>Kang</name>
-   <name>Leader</name>
-   <name>Lex Luthor</name>
-   <name>Living Tribunal</name>
-   <name>MODOK</name>
-   <name>Man of Miracles</name>
-   <name>Mandarin</name>
-   <name>Martian Manhunter</name>
-   <name>Mister Fantastic</name>
-   <name>Mister Mxyzptlk</name>
-   <name>Mister Sinister</name>
-   <name>Nova</name>
-   <name>Odin</name>
-   <name>One-Above-All</name>
-   <name>Ozymandias</name>
-   <name>Phoenix</name>
-   <name>Professor X</name>
-   <name>Q</name>
-   <name>Ra's Al Ghul</name>
-   <name>Riddler</name>
-   <name>Rip Hunter</name>
-   <name>Scarlet Witch</name>
-   <name>Thanos</name>
-   <name>Tinkerer</name>
-   <name>Vision</name>
-   <name>Watcher</name>
-</names>
+<superheroes>
+    <superhero>Ant-Man</superhero>
+    <superhero>Apocalypse</superhero>
+    <superhero>Batman</superhero>
+    <superhero>Beyonder</superhero>
+    <superhero>Brainiac</superhero>
+    <superhero>Brainiac 5</superhero>
+    <superhero>Data</superhero>
+    <superhero>Doctor Doom</superhero>
+    <superhero>Doctor Strange</superhero>
+    <superhero>Galactus</superhero>
+    <superhero>Green Goblin</superhero>
+    <superhero>Iron Man</superhero>
+    <superhero>Joker</superhero>
+    <superhero>Kang</superhero>
+    <superhero>Leader</superhero>
+    <superhero>Lex Luthor</superhero>
+    <superhero>Living Tribunal</superhero>
+    <superhero>MODOK</superhero>
+    <superhero>Man of Miracles</superhero>
+    <superhero>Mandarin</superhero>
+    <superhero>Martian Manhunter</superhero>
+    <superhero>Mister Fantastic</superhero>
+    <superhero>Mister Mxyzptlk</superhero>
+    <superhero>Mister Sinister</superhero>
+    <superhero>Nova</superhero>
+    <superhero>Odin</superhero>
+    <superhero>One-Above-All</superhero>
+    <superhero>Ozymandias</superhero>
+    <superhero>Phoenix</superhero>
+    <superhero>Professor X</superhero>
+    <superhero>Q</superhero>
+    <superhero>Ra's Al Ghul</superhero>
+    <superhero>Riddler</superhero>
+    <superhero>Rip Hunter</superhero>
+    <superhero>Scarlet Witch</superhero>
+    <superhero>Thanos</superhero>
+    <superhero>Tinkerer</superhero>
+    <superhero>Vision</superhero>
+    <superhero>Watcher</superhero>
+</superheroes>
