@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<former-criminals>
+    <former-criminal>
+        <name>Atlas</name>
+        <criminal-occupation>former professional criminal</criminal-occupation>
+    </former-criminal>
+    <former-criminal>
+        <name>Banshee</name>
+        <criminal-occupation>professional criminal</criminal-occupation>
+    </former-criminal>
+    <former-criminal>
+        <name>Songbird</name>
+        <criminal-occupation>former criminal and wrestler</criminal-occupation>
+    </former-criminal>
+    <former-criminal>
+        <name>Yellowjacket II</name>
+        <criminal-occupation>former criminal</criminal-occupation>
+    </former-criminal>
+</former-criminals>

@@ -1,0 +1,484 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<superheroes-with-superhero-relatives>
+    <superhero>
+        <name>Anti-Venom</name>
+        <relative>Carnage</relative>
+        <relative>Hybrid</relative>
+    </superhero>
+    <superhero>
+        <name>Aquababy</name>
+        <relative>Aquaman</relative>
+        <relative>Mera</relative>
+    </superhero>
+    <superhero>
+        <name>Aquaman</name>
+        <relative>Mera</relative>
+    </superhero>
+    <superhero>
+        <name>Batman</name>
+        <relative>Alfred Pennyworth</relative>
+    </superhero>
+    <superhero>
+        <name>Big Daddy</name>
+        <relative>Hit-Girl</relative>
+    </superhero>
+    <superhero>
+        <name>Black Bolt</name>
+        <relative>Medusa</relative>
+        <relative>Crystal</relative>
+    </superhero>
+    <superhero>
+        <name>Blink</name>
+        <relative>Apocalypse</relative>
+        <relative>Chamber</relative>
+    </superhero>
+    <superhero>
+        <name>Brainiac</name>
+        <relative>Brainiac 5</relative>
+    </superhero>
+    <superhero>
+        <name>Cable</name>
+        <relative>Jean Grey</relative>
+    </superhero>
+    <superhero>
+        <name>Carnage</name>
+        <relative>Venom</relative>
+        <relative>Shriek</relative>
+    </superhero>
+    <superhero>
+        <name>Crystal</name>
+        <relative>Medusa</relative>
+        <relative>Black Bolt</relative>
+        <relative>Luna</relative>
+    </superhero>
+    <superhero>
+        <name>Cyclops</name>
+        <relative>Hope Summers</relative>
+    </superhero>
+    <superhero>
+        <name>Daphne Powell</name>
+        <relative>JJ Powell</relative>
+    </superhero>
+    <superhero>
+        <name>Darth Vader</name>
+        <relative>Luke Skywalker</relative>
+    </superhero>
+    <superhero>
+        <name>Dash</name>
+        <relative>Violet Parr</relative>
+    </superhero>
+    <superhero>
+        <name>Dazzler</name>
+        <relative>Longshot</relative>
+    </superhero>
+    <superhero>
+        <name>Deadpool</name>
+        <relative>Evil Deadpool</relative>
+    </superhero>
+    <superhero>
+        <name>DL Hawkins</name>
+        <relative>Niki Sanders</relative>
+        <relative>Micah Sanders</relative>
+        <relative>Monica Dawson</relative>
+    </superhero>
+    <superhero>
+        <name>Doctor Strange</name>
+        <relative>Dormammu</relative>
+    </superhero>
+    <superhero>
+        <name>Donatello</name>
+        <relative>Leonardo</relative>
+        <relative>Michelangelo</relative>
+        <relative>Raphael</relative>
+    </superhero>
+    <superhero>
+        <name>Dormammu</name>
+        <relative>Doctor Strange</relative>
+    </superhero>
+    <superhero>
+        <name>Drax the Destroyer</name>
+        <relative>Venom</relative>
+    </superhero>
+    <superhero>
+        <name>Elastigirl</name>
+        <relative>Violet Parr</relative>
+    </superhero>
+    <superhero>
+        <name>Franklin Richards</name>
+        <relative>Franklin Storm</relative>
+    </superhero>
+    <superhero>
+        <name>Franklin Storm</name>
+        <relative>Franklin Richards</relative>
+    </superhero>
+    <superhero>
+        <name>Gamora</name>
+        <relative>Thanos</relative>
+    </superhero>
+    <superhero>
+        <name>Goblin Queen</name>
+        <relative>Mister Sinister</relative>
+        <relative>Jean Grey</relative>
+    </superhero>
+    <superhero>
+        <name>Gog</name>
+        <relative>Magog</relative>
+    </superhero>
+    <superhero>
+        <name>Hal Jordan</name>
+        <relative>Hal Jordan</relative>
+    </superhero>
+    <superhero>
+        <name>Havok</name>
+        <relative>Hope Summers</relative>
+        <relative>Hope Summers</relative>
+    </superhero>
+    <superhero>
+        <name>Hawkgirl</name>
+        <relative>Sandman</relative>
+    </superhero>
+    <superhero>
+        <name>Hela</name>
+        <relative>Loki</relative>
+        <relative>Thor</relative>
+    </superhero>
+    <superhero>
+        <name>Hope Summers</name>
+        <relative>Cable</relative>
+        <relative>Cyclops</relative>
+        <relative>X-Man</relative>
+        <relative>Marvel Girl</relative>
+        <relative>Havok</relative>
+    </superhero>
+    <superhero>
+        <name>Human Torch</name>
+        <relative>Franklin Richards</relative>
+    </superhero>
+    <superhero>
+        <name>Hybrid</name>
+        <relative>Hybrid</relative>
+    </superhero>
+    <superhero>
+        <name>Invisible Woman</name>
+        <relative>Franklin Richards</relative>
+        <relative>Franklin Storm</relative>
+    </superhero>
+    <superhero>
+        <name>Isis</name>
+        <relative>Black Adam</relative>
+    </superhero>
+    <superhero>
+        <name>Jack-Jack</name>
+        <relative>Violet Parr</relative>
+    </superhero>
+    <superhero>
+        <name>Jean Grey</name>
+        <relative>X-Man</relative>
+        <relative>Cyclops</relative>
+        <relative>Havok</relative>
+        <relative>Cable</relative>
+    </superhero>
+    <superhero>
+        <name>Jessica Jones</name>
+        <relative>Luke Cage</relative>
+    </superhero>
+    <superhero>
+        <name>Jim Powell</name>
+        <relative>Stephanie Powell</relative>
+        <relative>Daphne Powell</relative>
+    </superhero>
+    <superhero>
+        <name>JJ Powell</name>
+        <relative>Daphne Powell</relative>
+    </superhero>
+    <superhero>
+        <name>Kylo Ren</name>
+        <relative>Han Solo</relative>
+        <relative>Luke Skywalker</relative>
+    </superhero>
+    <superhero>
+        <name>Leonardo</name>
+        <relative>Donatello</relative>
+        <relative>Michelangelo</relative>
+        <relative>Raphael</relative>
+    </superhero>
+    <superhero>
+        <name>Living Tribunal</name>
+        <relative>One-Above-All</relative>
+    </superhero>
+    <superhero>
+        <name>Loki</name>
+        <relative>Odin</relative>
+    </superhero>
+    <superhero>
+        <name>Luke Cage</name>
+        <relative>Jessica Jones</relative>
+    </superhero>
+    <superhero>
+        <name>Luke Skywalker</name>
+        <relative>Darth Vader</relative>
+        <relative>Yoda</relative>
+    </superhero>
+    <superhero>
+        <name>Luna</name>
+        <relative>Quicksilver</relative>
+        <relative>Magneto</relative>
+        <relative>Crystal</relative>
+        <relative>Polaris</relative>
+    </superhero>
+    <superhero>
+        <name>Magneto</name>
+        <relative>Luna</relative>
+    </superhero>
+    <superhero>
+        <name>Magus</name>
+        <relative>Warlock</relative>
+    </superhero>
+    <superhero>
+        <name>Marvel Girl</name>
+        <relative>Franklin Richards</relative>
+    </superhero>
+    <superhero>
+        <name>Match</name>
+        <relative>Superman</relative>
+        <relative>Lex Luthor</relative>
+        <relative>Superboy</relative>
+    </superhero>
+    <superhero>
+        <name>Medusa</name>
+        <relative>Crystal</relative>
+        <relative>Black Bolt</relative>
+        <relative>Triton</relative>
+        <relative>Quicksilver</relative>
+        <relative>Luna</relative>
+    </superhero>
+    <superhero>
+        <name>Mera</name>
+        <relative>Aquaman</relative>
+        <relative>Aquababy</relative>
+        <relative>Siren</relative>
+    </superhero>
+    <superhero>
+        <name>Micah Sanders</name>
+        <relative>Niki Sanders</relative>
+        <relative>DL Hawkins</relative>
+        <relative>Monica Dawson</relative>
+    </superhero>
+    <superhero>
+        <name>Michelangelo</name>
+        <relative>Leonardo</relative>
+        <relative>Donatello</relative>
+        <relative>Raphael</relative>
+    </superhero>
+    <superhero>
+        <name>Mockingbird</name>
+        <relative>Hawkeye</relative>
+    </superhero>
+    <superhero>
+        <name>Monica Dawson</name>
+        <relative>DL Hawkins</relative>
+        <relative>Niki Sanders</relative>
+        <relative>Micah Sanders</relative>
+    </superhero>
+    <superhero>
+        <name>Mr Incredible</name>
+        <relative>Violet Parr</relative>
+    </superhero>
+    <superhero>
+        <name>Mystique</name>
+        <relative>Rogue</relative>
+    </superhero>
+    <superhero>
+        <name>Namor</name>
+        <relative>Namora</relative>
+        <relative>Namorita</relative>
+    </superhero>
+    <superhero>
+        <name>Namora</name>
+        <relative>Namor</relative>
+        <relative>Namorita</relative>
+    </superhero>
+    <superhero>
+        <name>Namorita</name>
+        <relative>Namora</relative>
+    </superhero>
+    <superhero>
+        <name>Nightcrawler</name>
+        <relative>Mystique</relative>
+    </superhero>
+    <superhero>
+        <name>Niki Sanders</name>
+        <relative>DL Hawkins</relative>
+        <relative>Micah Sanders</relative>
+        <relative>Monica Dawson</relative>
+    </superhero>
+    <superhero>
+        <name>Odin</name>
+        <relative>Thor</relative>
+        <relative>Loki</relative>
+    </superhero>
+    <superhero>
+        <name>One-Above-All</name>
+        <relative>Living Tribunal</relative>
+    </superhero>
+    <superhero>
+        <name>Onslaught</name>
+        <relative>Magneto</relative>
+    </superhero>
+    <superhero>
+        <name>Osiris</name>
+        <relative>Isis</relative>
+        <relative>Black Adam</relative>
+    </superhero>
+    <superhero>
+        <name>Phoenix</name>
+        <relative>X-Man</relative>
+        <relative>Cyclops</relative>
+        <relative>Havok</relative>
+        <relative>Cable</relative>
+    </superhero>
+    <superhero>
+        <name>Plastic Man</name>
+        <relative>Offspring</relative>
+    </superhero>
+    <superhero>
+        <name>Polaris</name>
+        <relative>Magneto</relative>
+        <relative>Scarlet Witch</relative>
+        <relative>Quicksilver</relative>
+        <relative>Nightcrawler</relative>
+        <relative>Vision</relative>
+        <relative>Crystal</relative>
+    </superhero>
+    <superhero>
+        <name>Quicksilver</name>
+        <relative>Crystal</relative>
+        <relative>Medusa</relative>
+        <relative>Vision</relative>
+    </superhero>
+    <superhero>
+        <name>Ra's Al Ghul</name>
+        <relative>Robin V</relative>
+    </superhero>
+    <superhero>
+        <name>Raphael</name>
+        <relative>Leonardo</relative>
+        <relative>Donatello</relative>
+        <relative>Michelangelo</relative>
+    </superhero>
+    <superhero>
+        <name>Robin V</name>
+        <relative>Ra's Al Ghul</relative>
+    </superhero>
+    <superhero>
+        <name>Scarlet Witch</name>
+        <relative>Vision</relative>
+        <relative>Crystal</relative>
+        <relative>Luna</relative>
+    </superhero>
+    <superhero>
+        <name>Shatterstar</name>
+        <relative>Longshot</relative>
+        <relative>Dazzler</relative>
+    </superhero>
+    <superhero>
+        <name>Shriek</name>
+        <relative>Carnage</relative>
+        <relative>Doppelganger</relative>
+    </superhero>
+    <superhero>
+        <name>Silk</name>
+        <relative>Spider-Man</relative>
+    </superhero>
+    <superhero>
+        <name>Sinestro</name>
+        <relative>Abin Sur</relative>
+    </superhero>
+    <superhero>
+        <name>Siren</name>
+        <relative>Mera</relative>
+        <relative>Aquaman</relative>
+    </superhero>
+    <superhero>
+        <name>Skaar</name>
+        <relative>She-Hulk</relative>
+        <relative>Hulk</relative>
+    </superhero>
+    <superhero>
+        <name>Spyke</name>
+        <relative>Storm</relative>
+    </superhero>
+    <superhero>
+        <name>Stephanie Powell</name>
+        <relative>Jim Powell</relative>
+        <relative>Daphne Powell</relative>
+        <relative>JJ Powell</relative>
+    </superhero>
+    <superhero>
+        <name>Storm</name>
+        <relative>Black Panther</relative>
+    </superhero>
+    <superhero>
+        <name>Superboy</name>
+        <relative>Superman</relative>
+        <relative>Lex Luthor</relative>
+        <relative>Match</relative>
+    </superhero>
+    <superhero>
+        <name>Superman</name>
+        <relative>Supergirl</relative>
+        <relative>Superboy</relative>
+    </superhero>
+    <superhero>
+        <name>Thanos</name>
+        <relative>Gamora</relative>
+        <relative>Nebula</relative>
+    </superhero>
+    <superhero>
+        <name>Thor</name>
+        <relative>Odin</relative>
+        <relative>Loki</relative>
+        <relative>Hela</relative>
+    </superhero>
+    <superhero>
+        <name>Toxin</name>
+        <relative>Carnage</relative>
+        <relative>Venom</relative>
+    </superhero>
+    <superhero>
+        <name>Toxin</name>
+        <relative>Carnage</relative>
+        <relative>Hybrid</relative>
+    </superhero>
+    <superhero>
+        <name>Two-Face</name>
+        <relative>Poison Ivy</relative>
+    </superhero>
+    <superhero>
+        <name>Ultron</name>
+        <relative>Vision</relative>
+    </superhero>
+    <superhero>
+        <name>Venom</name>
+        <relative>Toxin</relative>
+        <relative>Toxin</relative>
+    </superhero>
+    <superhero>
+        <name>Vision</name>
+        <relative>Ultron</relative>
+    </superhero>
+    <superhero>
+        <name>Warpath</name>
+        <relative>Thunderbird</relative>
+    </superhero>
+    <superhero>
+        <name>Wolverine</name>
+        <relative>X-23</relative>
+    </superhero>
+    <superhero>
+        <name>Yellowjacket</name>
+        <relative>Ultron</relative>
+        <relative>Vision</relative>
+        <relative>Scarlet Witch</relative>
+    </superhero>
+</superheroes-with-superhero-relatives>

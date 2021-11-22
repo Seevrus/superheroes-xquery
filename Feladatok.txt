@@ -3,12 +3,8 @@ Az a szuperhős, akinek egy tulajdonsága a legkisebb. Melyik ez a tulajdonság?
 Kiadók listája, aktivitásuk szerint rendezve, aktivitási adattal (hány szuperhősért felelnek)
 A legerősebb szuperhős (powerstat átlag)
 Férfi szuperhősök átlagos magassága és testsúlya
-
-Egy adott szuperhősnél erősebb szuperhősök tömbje, az ő legjobb tulajdonsága szerint összehasonlítva és rendezve
-Olyan szuperhősök, akik jó útra tértek
+Szuperhősök száma fajonként, JSON tömb formátumba sorolva
 Jó hősök aránya fajonként, csökkenő sorrendben
-Szuperhősök száma fajonként, JSON asszociatív tömb formátumba sorolva
-Olyan csapatok, amelyekhez pozitív / negatív alignment is sorolható
-Név / Alignment / First Affilation / Number of affilations, HTML táblázat
-Csapatonként az átlag / min / max / szórás az egyes power statokra, XML formátumban
-Egymással rokonságban álló párok, megjelöléssel együtt
+Olyan hősök, ahol az occupation része a criminal, de az alignment good
+Olyan hősök, akik rokonai valamelyik másik hősnek
+Name / fullName / Race / Alignment / First Affilation, HTML táblázat

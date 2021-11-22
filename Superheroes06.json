@@ -1,0 +1,711 @@
+[
+        {
+            "superheroes": [ 
+                "Ardina",
+                "Blackwulf",
+                "Century",
+                "Doomsday",
+                "Evilhawk",
+                "Indigo",
+                "Silver Surfer" ],
+            "numberOfSuperheroes": 7,
+            "race": "Alien"
+        },
+        {
+            "superheroes": [ 
+                "Bill Harken",
+                "Cameron Hicks",
+                "Gary Bell",
+                "Nina Theroux",
+                "Rachel Pirzad" ],
+            "numberOfSuperheroes": 5,
+            "race": "Alpha"
+        },
+        {
+            "superheroes": [ 
+                "Wonder Woman" ],
+            "numberOfSuperheroes": 1,
+            "race": "Amazon"
+        },
+        {
+            "superheroes": [ 
+                "Amazo",
+                "Brainiac",
+                "Data",
+                "Metallo",
+                "Red Tornado",
+                "T-1000",
+                "Ultron",
+                "Vision" ],
+            "numberOfSuperheroes": 8,
+            "race": "Android"
+        },
+        {
+            "superheroes": [ 
+                "King Kong",
+                "King Shark",
+                "Rocket Raccoon" ],
+            "numberOfSuperheroes": 3,
+            "race": "Animal"
+        },
+        {
+            "superheroes": [ 
+                "Hela",
+                "Loki",
+                "Sif",
+                "Thor",
+                "Thor Girl" ],
+            "numberOfSuperheroes": 5,
+            "race": "Asgardian"
+        },
+        {
+            "superheroes": [ 
+                "Aqualad",
+                "Aquaman",
+                "Mera",
+                "Namor",
+                "Siren" ],
+            "numberOfSuperheroes": 5,
+            "race": "Atlantean"
+        },
+        {
+            "superheroes": [ 
+                "Bizarro" ],
+            "numberOfSuperheroes": 1,
+            "race": "Bizarro"
+        },
+        {
+            "superheroes": [ 
+                "Flash II" ],
+            "numberOfSuperheroes": 1,
+            "race": "Black Racer"
+        },
+        {
+            "superheroes": [ 
+                "Kilowog" ],
+            "numberOfSuperheroes": 1,
+            "race": "Bolovaxian"
+        },
+        {
+            "superheroes": [ 
+                "Scarlet Spider II" ],
+            "numberOfSuperheroes": 1,
+            "race": "Clone"
+        },
+        {
+            "superheroes": [ 
+                "Abraxas",
+                "Galactus",
+                "Living Tribunal",
+                "One-Above-All" ],
+            "numberOfSuperheroes": 4,
+            "race": "Cosmic Entity"
+        },
+        {
+            "superheroes": [
+                "Ajax",
+                "Bionic Woman",
+                "Cyborg",
+                "Cyborg Superman",
+                "Darth Vader",
+                "Deathlok",
+                "Lady Deathstrike",
+                "MODOK",
+                "T-800",
+                "T-850",
+                "T-X"
+            ],
+            "numberOfSuperheroes": 11,
+            "race": "Cyborg"
+        },
+        {
+            "superheroes": [ 
+                "Lobo" ],
+            "numberOfSuperheroes": 1,
+            "race": "Czarnian"
+        },
+        {
+            "superheroes": [ 
+                "Darth Maul" ],
+            "numberOfSuperheroes": 1,
+            "race": "Dathomirian Zabrak"
+        },
+        {
+            "superheroes": [ 
+                "Hercules",
+                "Wonder Girl" ],
+            "numberOfSuperheroes": 2,
+            "race": "Demi-God"
+        },
+        {
+            "superheroes": [ 
+                "Blackout",
+                "Demogoblin",
+                "Etrigan",
+                "Ghost Rider",
+                "Hellboy",
+                "Spawn" ],
+            "numberOfSuperheroes": 6,
+            "race": "Demon"
+        },
+        {
+            "superheroes": [ 
+                "Hyperion",
+                "Thanos" ],
+            "numberOfSuperheroes": 2,
+            "race": "Eternal"
+        },
+        {
+            "superheroes": [ 
+                "Groot" ],
+            "numberOfSuperheroes": 1,
+            "race": "Flora Colossus"
+        },
+        {
+            "superheroes": [ 
+                "Utgard-Loki",
+                "Ymir" ],
+            "numberOfSuperheroes": 2,
+            "race": "Frost Giant"
+        },
+        {
+            "superheroes": [
+                "Anti-Monitor",
+                "Atlas",
+                "Beyonder",
+                "Black Flash",
+                "Captain Planet",
+                "Man of Miracles",
+                "Mister Mxyzptlk",
+                "Odin",
+                "Q",
+                "Spectre",
+                "Swamp Thing"
+            ],
+            "numberOfSuperheroes": 11,
+            "race": "God \/ Eternal"
+        },
+        {
+            "superheroes": [ 
+                "Gorilla Grodd" ],
+            "numberOfSuperheroes": 1,
+            "race": "Gorilla"
+        },
+        {
+            "superheroes": [ 
+                "Jar Jar Binks" ],
+            "numberOfSuperheroes": 1,
+            "race": "Gungan"
+        },
+        {
+            "superheroes": [
+                "A-Bomb",
+                "Absorbing Man",
+                "Adam Strange",
+                "Agent Bob",
+                "Alex Mercer",
+                "Alfred Pennyworth",
+                "Animal Man",
+                "Ant-Man",
+                "Ant-Man II",
+                "Arachne",
+                "Atom II",
+                "Azrael",
+                "Bane",
+                "Banshee",
+                "Batgirl",
+                "Batgirl IV",
+                "Batman",
+                "Batman",
+                "Batman II",
+                "Batwoman V",
+                "Beast Boy",
+                "Black Canary",
+                "Black Cat",
+                "Black Knight III",
+                "Black Manta",
+                "Black Panther",
+                "Black Widow",
+                "Bloodaxe",
+                "Blue Beetle III",
+                "Buffy",
+                "Bullseye",
+                "Bumblebee",
+                "Bushido",
+                "Captain America",
+                "Captain Britain",
+                "Captain Cold",
+                "Captain Hindsight",
+                "Captain Marvel",
+                "Captain Marvel II",
+                "Catwoman",
+                "Cheetah",
+                "Cheetah III",
+                "Citizen Steel",
+                "Clock King",
+                "Cottonmouth",
+                "Daredevil",
+                "Darkhawk",
+                "Dash",
+                "Deadman",
+                "Deadshot",
+                "Deathstroke",
+                "Diamondback",
+                "Doctor Doom",
+                "Doctor Fate",
+                "Doctor Octopus",
+                "Doctor Strange",
+                "Domino",
+                "Elastigirl",
+                "Electro",
+                "Elektra",
+                "Enchantress",
+                "Ethan Hunt",
+                "Falcon",
+                "Firestorm",
+                "Flash",
+                "Flash III",
+                "Flash IV",
+                "Gravity",
+                "Green Arrow",
+                "Green Goblin",
+                "Hal Jordan",
+                "Han Solo",
+                "Hancock",
+                "Harley Quinn",
+                "Harry Potter",
+                "Hawkeye",
+                "Hawkeye II",
+                "Heat Wave",
+                "Hellcat",
+                "Hit-Girl",
+                "Impulse",
+                "Indiana Jones",
+                "Iron Fist",
+                "Iron Man",
+                "Jack of Hearts",
+                "Jack-Jack",
+                "James Bond",
+                "James T. Kirk",
+                "Jason Bourne",
+                "Jean-Luc Picard",
+                "Jessica Cruz",
+                "Jessica Jones",
+                "John Constantine",
+                "Joker",
+                "Judge Dredd",
+                "Juggernaut",
+                "Justice",
+                "Kathryn Janeway",
+                "Katniss Everdeen",
+                "Kevin 11",
+                "Kick-Ass",
+                "Kid Flash",
+                "Killer Frost",
+                "Kingpin",
+                "Klaw",
+                "Kraven II",
+                "Kraven the Hunter",
+                "Kyle Rayner",
+                "Kylo Ren",
+                "Lex Luthor",
+                "Lizard",
+                "Longshot",
+                "Luke Cage",
+                "Luke Skywalker",
+                "Luna",
+                "Man-Bat",
+                "Mandarin",
+                "Mister Freeze",
+                "Mister Zsasz",
+                "Mockingbird",
+                "Moon Knight",
+                "Mr Incredible",
+                "Mysterio",
+                "Naruto Uzumaki",
+                "Nick Fury",
+                "Nightwing",
+                "Nova",
+                "One Punch Man",
+                "Oracle",
+                "Ozymandias",
+                "Paul Blart",
+                "Penguin",
+                "Plastic Man",
+                "Poison Ivy",
+                "Professor Zoom",
+                "Punisher",
+                "Purple Man",
+                "Question",
+                "Ra's Al Ghul",
+                "Rambo",
+                "Raven",
+                "Ray",
+                "Red Arrow",
+                "Red Hood",
+                "Red Robin",
+                "Rey",
+                "Rip Hunter",
+                "Robin",
+                "Robin II",
+                "Robin III",
+                "Robin V",
+                "Robin VI",
+                "Ronin",
+                "Rorschach",
+                "Sandman",
+                "Scarecrow",
+                "Scarlet Spider",
+                "Scorpion",
+                "Shang-Chi",
+                "She-Hulk",
+                "Shocker",
+                "Silk",
+                "Simon Baz",
+                "Space Ghost",
+                "Speedy",
+                "Spider-Girl",
+                "Spider-Gwen",
+                "Spider-Man",
+                "Spider-Woman",
+                "Stargirl",
+                "Stormtrooper",
+                "Taskmaster",
+                "The Comedian",
+                "Tiger Shark",
+                "Vibe",
+                "Vindicator",
+                "Violet Parr",
+                "Vixen",
+                "Vulture",
+                "Walrus",
+                "War Machine",
+                "Wasp",
+                "White Canary",
+                "Winter Soldier",
+                "Yellowjacket",
+                "Yellowjacket II",
+                "Zatanna"
+            ],
+            "numberOfSuperheroes": 187,
+            "race": "Human"
+        },
+        {
+            "superheroes": [ 
+                "Drax the Destroyer",
+                "Master Chief",
+                "Mister Sinister" ],
+            "numberOfSuperheroes": 3,
+            "race": "Human \/ Altered"
+        },
+        {
+            "superheroes": [ 
+                "Boba Fett" ],
+            "numberOfSuperheroes": 1,
+            "race": "Human \/ Clone"
+        },
+        {
+            "superheroes": [ 
+                "Dr Manhattan",
+                "Nova" ],
+            "numberOfSuperheroes": 2,
+            "race": "Human \/ Cosmic"
+        },
+        {
+            "superheroes": [
+                "Abomination",
+                "Captain Atom",
+                "Doc Samson",
+                "Hulk",
+                "Human Torch",
+                "Invisible Woman",
+                "Mister Fantastic",
+                "Red Hulk",
+                "Rhino",
+                "She-Thing",
+                "Thing"
+            ],
+            "numberOfSuperheroes": 11,
+            "race": "Human \/ Radiation"
+        },
+        {
+            "superheroes": [ 
+                "Captain Marvel",
+                "Mantis" ],
+            "numberOfSuperheroes": 2,
+            "race": "Human-Kree"
+        },
+        {
+            "superheroes": [ 
+                "Star-Lord" ],
+            "numberOfSuperheroes": 1,
+            "race": "Human-Spartoi"
+        },
+        {
+            "superheroes": [ 
+                "Spock" ],
+            "numberOfSuperheroes": 1,
+            "race": "Human-Vulcan"
+        },
+        {
+            "superheroes": [ 
+                "Guy Gardner" ],
+            "numberOfSuperheroes": 1,
+            "race": "Human-Vuldarian"
+        },
+        {
+            "superheroes": [ 
+                "Abe Sapien" ],
+            "numberOfSuperheroes": 1,
+            "race": "Icthyo Sapien"
+        },
+        {
+            "superheroes": [ 
+                "Black Bolt",
+                "Crystal",
+                "Medusa",
+                "Triton" ],
+            "numberOfSuperheroes": 4,
+            "race": "Inhuman"
+        },
+        {
+            "superheroes": [ 
+                "Godzilla" ],
+            "numberOfSuperheroes": 1,
+            "race": "Kaiju"
+        },
+        {
+            "superheroes": [ 
+                "Fin Fang Foom" ],
+            "numberOfSuperheroes": 1,
+            "race": "Kakarantharaian"
+        },
+        {
+            "superheroes": [ 
+                "Sinestro" ],
+            "numberOfSuperheroes": 1,
+            "race": "Korugaran"
+        },
+        {
+            "superheroes": [ 
+                "Faora",
+                "General Zod",
+                "Krypto",
+                "Power Girl",
+                "Superboy-Prime",
+                "Supergirl",
+                "Superman" ],
+            "numberOfSuperheroes": 7,
+            "race": "Kryptonian"
+        },
+        {
+            "superheroes": [ 
+                "Nebula" ],
+            "numberOfSuperheroes": 1,
+            "race": "Luphomoid"
+        },
+        {
+            "superheroes": [ 
+                "Sauron" ],
+            "numberOfSuperheroes": 1,
+            "race": "Maiar"
+        },
+        {
+            "superheroes": [ 
+                "Martian Manhunter" ],
+            "numberOfSuperheroes": 1,
+            "race": "Martian"
+        },
+        {
+            "superheroes": [ 
+                "Black Canary",
+                "Killer Croc" ],
+            "numberOfSuperheroes": 2,
+            "race": "Metahuman"
+        },
+        {
+            "superheroes": [
+                "Angel Dust",
+                "Apocalypse",
+                "Archangel",
+                "Atlas",
+                "Aurora",
+                "Beast",
+                "Bishop",
+                "Blink",
+                "Bloodhawk",
+                "Boom-Boom",
+                "Brundlefly",
+                "Cable",
+                "Chamber",
+                "Colossus",
+                "Copycat",
+                "Cyclops",
+                "Darkstar",
+                "Dazzler",
+                "Deadpool",
+                "Donatello",
+                "Evil Deadpool",
+                "Exodus",
+                "Firestar",
+                "Franklin Richards",
+                "Gambit",
+                "Havok",
+                "Husk",
+                "Iceman",
+                "Ink",
+                "Jean Grey",
+                "Jubilee",
+                "Junkpile",
+                "Legion",
+                "Leonardo",
+                "Magneto",
+                "Michelangelo",
+                "Mr Immortal",
+                "Mystique",
+                "Negasonic Teenage Warhead",
+                "Onslaught",
+                "Phoenix",
+                "Plantman",
+                "Polaris",
+                "Professor X",
+                "Psylocke",
+                "Quicksilver",
+                "Raphael",
+                "Sabretooth",
+                "Scarlet Witch",
+                "Sebastian Shaw",
+                "Sentry",
+                "Shadowcat",
+                "Spyke",
+                "Static",
+                "Storm",
+                "Sunspot",
+                "Swarm",
+                "Toad",
+                "Warpath",
+                "Wolverine"
+            ],
+            "numberOfSuperheroes": 60,
+            "race": "Mutant"
+        },
+        {
+            "superheroes": [ 
+                "X-23" ],
+            "numberOfSuperheroes": 1,
+            "race": "Mutant \/ Clone"
+        },
+        {
+            "superheroes": [ 
+                "Big Barda",
+                "Darkseid",
+                "Steppenwolf" ],
+            "numberOfSuperheroes": 3,
+            "race": "New God"
+        },
+        {
+            "superheroes": [ 
+                "Azazel" ],
+            "numberOfSuperheroes": 1,
+            "race": "Neyaphem"
+        },
+        {
+            "superheroes": [ 
+                "Parademon" ],
+            "numberOfSuperheroes": 1,
+            "race": "Parademon"
+        },
+        {
+            "superheroes": [ 
+                "Greedo" ],
+            "numberOfSuperheroes": 1,
+            "race": "Rodian"
+        },
+        {
+            "superheroes": [ 
+                "Goku",
+                "Vegeta" ],
+            "numberOfSuperheroes": 2,
+            "race": "Saiyan"
+        },
+        {
+            "superheroes": [ 
+                "Mister Knife" ],
+            "numberOfSuperheroes": 1,
+            "race": "Spartoi"
+        },
+        {
+            "superheroes": [ 
+                "Gladiator" ],
+            "numberOfSuperheroes": 1,
+            "race": "Strontian"
+        },
+        {
+            "superheroes": [ 
+                "Anti-Venom",
+                "Carnage",
+                "Hybrid",
+                "Toxin",
+                "Toxin",
+                "Venom",
+                "Venom III",
+                "Venompool" ],
+            "numberOfSuperheroes": 8,
+            "race": "Symbiote"
+        },
+        {
+            "superheroes": [ 
+                "Shadow Lass" ],
+            "numberOfSuperheroes": 1,
+            "race": "Talokite"
+        },
+        {
+            "superheroes": [ 
+                "Starfire" ],
+            "numberOfSuperheroes": 1,
+            "race": "Tamaranean"
+        },
+        {
+            "superheroes": [ 
+                "Abin Sur" ],
+            "numberOfSuperheroes": 1,
+            "race": "Ungaran"
+        },
+        {
+            "superheroes": [ 
+                "Angel",
+                "Blade" ],
+            "numberOfSuperheroes": 2,
+            "race": "Vampire"
+        },
+        {
+            "superheroes": [ 
+                "Alien" ],
+            "numberOfSuperheroes": 1,
+            "race": "Xenomorph XX121"
+        },
+        {
+            "superheroes": [ 
+                "Predator" ],
+            "numberOfSuperheroes": 1,
+            "race": "Yautja"
+        },
+        {
+            "superheroes": [ 
+                "Yoda" ],
+            "numberOfSuperheroes": 1,
+            "race": "Yoda's species"
+        },
+        {
+            "superheroes": [ 
+                "Gamora" ],
+            "numberOfSuperheroes": 1,
+            "race": "Zen-Whoberian"
+        },
+        {
+            "superheroes": [ 
+                "Solomon Grundy" ],
+            "numberOfSuperheroes": 1,
+            "race": "Zombie"
+        }
+    ]

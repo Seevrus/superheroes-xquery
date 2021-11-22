@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<races>
+    <race name="Alpha" good-ratio="1"/>
+    <race name="Amazon" good-ratio="1"/>
+    <race name="Black Racer" good-ratio="1"/>
+    <race name="Bolovaxian" good-ratio="1"/>
+    <race name="Clone" good-ratio="1"/>
+    <race name="Demi-God" good-ratio="1"/>
+    <race name="Flora Colossus" good-ratio="1"/>
+    <race name="Gungan" good-ratio="1"/>
+    <race name="Human / Cosmic" good-ratio="1"/>
+    <race name="Human-Kree" good-ratio="1"/>
+    <race name="Human-Spartoi" good-ratio="1"/>
+    <race name="Human-Vulcan" good-ratio="1"/>
+    <race name="Human-Vuldarian" good-ratio="1"/>
+    <race name="Icthyo Sapien" good-ratio="1"/>
+    <race name="Inhuman" good-ratio="1"/>
+    <race name="Kakarantharaian" good-ratio="1"/>
+    <race name="Martian" good-ratio="1"/>
+    <race name="Mutant / Clone" good-ratio="1"/>
+    <race name="Talokite" good-ratio="1"/>
+    <race name="Tamaranean" good-ratio="1"/>
+    <race name="Ungaran" good-ratio="1"/>
+    <race name="Vampire" good-ratio="1"/>
+    <race name="Yoda's species" good-ratio="1"/>
+    <race name="Zen-Whoberian" good-ratio="1"/>
+    <race name="Atlantean" good-ratio="0.8"/>
+    <race name="Human / Radiation" good-ratio="0.727"/>
+    <race name="Mutant" good-ratio="0.717"/>
+    <race name="Human" good-ratio="0.706"/>
+    <race name="Animal" good-ratio="0.667"/>
+    <race name="Human / Altered" good-ratio="0.667"/>
+    <race name="Asgardian" good-ratio="0.6"/>
+    <race name="Kryptonian" good-ratio="0.571"/>
+    <race name="Demon" good-ratio="0.5"/>
+    <race name="Eternal" good-ratio="0.5"/>
+    <race name="Frost Giant" good-ratio="0.5"/>
+    <race name="Metahuman" good-ratio="0.5"/>
+    <race name="Saiyan" good-ratio="0.5"/>
+    <race name="Alien" good-ratio="0.429"/>
+    <race name="Android" good-ratio="0.375"/>
+    <race name="Symbiote" good-ratio="0.375"/>
+    <race name="God / Eternal" good-ratio="0.364"/>
+    <race name="Cyborg" good-ratio="0.273"/>
+    <race name="Bizarro" good-ratio="0"/>
+    <race name="Cosmic Entity" good-ratio="0"/>
+    <race name="Czarnian" good-ratio="0"/>
+    <race name="Dathomirian Zabrak" good-ratio="0"/>
+    <race name="Gorilla" good-ratio="0"/>
+    <race name="Human / Clone" good-ratio="0"/>
+    <race name="Kaiju" good-ratio="0"/>
+    <race name="Korugaran" good-ratio="0"/>
+    <race name="Luphomoid" good-ratio="0"/>
+    <race name="Maiar" good-ratio="0"/>
+    <race name="New God" good-ratio="0"/>
+    <race name="Neyaphem" good-ratio="0"/>
+    <race name="Parademon" good-ratio="0"/>
+    <race name="Rodian" good-ratio="0"/>
+    <race name="Spartoi" good-ratio="0"/>
+    <race name="Strontian" good-ratio="0"/>
+    <race name="Xenomorph XX121" good-ratio="0"/>
+    <race name="Yautja" good-ratio="0"/>
+    <race name="Zombie" good-ratio="0"/>
+</races>
