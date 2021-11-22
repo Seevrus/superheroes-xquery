@@ -10,8 +10,8 @@
     
     <xs:complexType name="former-criminal">
         <xs:sequence>
-            <xs:element name="name" type="xs:decimal" />
-            <xs:element name="criminal-occupation" type="xs:decimal" />
+            <xs:element name="name" type="xs:string" />
+            <xs:element name="criminal-occupation" type="xs:string" />
         </xs:sequence>
     </xs:complexType>
 </xs:schema>

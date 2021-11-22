@@ -12,7 +12,7 @@ declare variable $superheroes := json-doc($superheroes-uri);
 (: Jó hősök aránya fajonként, csökkenő sorrendben :)
 let $races := $superheroes?*?appearance?race => distinct-values()
 
-return
+return validate {
 <races>
 {for $race in $races
     let $heroes-in-race := $superheroes?*[?appearance?race = $race]
@@ -26,3 +26,4 @@ return
     }
 }
 </races>
+}

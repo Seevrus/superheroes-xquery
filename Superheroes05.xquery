@@ -27,8 +27,9 @@ declare function local:get-average-value($heroes, $appearance-key as xs:string) 
 let $male-heroes := $superheroes?*[?appearance?gender = "Male"]
 
 (: Vannak kiugró értékek, pl. Godzilla 90000 tonnát nyom :)
-return
+return validate {
 <male-heroes>
     <avg-height>{local:get-average-value($male-heroes, "height")} cm</avg-height>
     <avg-weight>{local:get-average-value($male-heroes, "weight")} kg</avg-weight>
 </male-heroes>
+}

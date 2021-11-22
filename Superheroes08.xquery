@@ -22,7 +22,7 @@ declare function local:criminal-occupations($occupation as xs:string) {
     )
 };
 
-<former-criminals>
+validate {<former-criminals>
 {for $superhero in $superheroes?*
     let $criminal-occupations := local:criminal-occupations($superhero?work?occupation)
     return if ($superhero?biography?alignment ne "good" or fn:empty($criminal-occupations))
@@ -36,3 +36,4 @@ declare function local:criminal-occupations($occupation as xs:string) {
     )
 }
 </former-criminals>
+}

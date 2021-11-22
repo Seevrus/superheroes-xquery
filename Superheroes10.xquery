@@ -6,7 +6,7 @@ declare option output:method "html";
 declare option output:html-version "5.0";
 declare option output:indent "yes";
 
-declare variable $superheroes-uri as xs:string external := "superhero-api-all-11202010.json";
+declare variable $superheroes-uri as xs:string external := "superhero-api-all-11202021.json";
 declare variable $superheroes := json-doc($superheroes-uri);
 
 declare function local:affiliation($superhero) {

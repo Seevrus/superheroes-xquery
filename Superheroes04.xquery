@@ -30,7 +30,7 @@ let $max-avg-stat := map:for-each(
     function($key, $value) { $value }
 ) => max()
 
-return
+return validate {
 <superheroes>
 {for $superhero in $superheroes?*
     order by $superhero?name
@@ -43,3 +43,4 @@ return
     else ()
 }
 </superheroes>
+}

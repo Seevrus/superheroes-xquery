@@ -23,7 +23,7 @@ declare function local:get-relatives($superhero) {
         return $superheroes?*[?name = $relative-name]
 };
 
-<superheroes-with-superhero-relatives>
+validate { <superheroes-with-superhero-relatives>
 {for $superhero in $superheroes?*
     let $related-heroes := local:get-relatives($superhero)
     return if (fn:empty($related-heroes))
@@ -37,3 +37,4 @@ declare function local:get-relatives($superhero) {
     )
 }
 </superheroes-with-superhero-relatives>
+}

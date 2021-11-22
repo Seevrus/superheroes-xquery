@@ -11,7 +11,7 @@
     <xs:complexType name="superhero">
         <xs:sequence>
             <xs:element name="name" type="xs:string" />
-            <xs:element name="relative" type="xs:double" maxOccurs="unbounded" />
+            <xs:element name="relative" type="xs:string" maxOccurs="unbounded" />
         </xs:sequence>
     </xs:complexType>
 </xs:schema>

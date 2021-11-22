@@ -16,7 +16,7 @@ let $num-heroes-by-publisher := map:merge(
         return map:entry($publisher, $superheroes?*[?biography?publisher = $publisher] => count())
 )
 
-return
+return validate {
 <publishers>
 {for $publisher in $publishers
     let $superheroes := map:get($num-heroes-by-publisher, $publisher)
@@ -27,3 +27,4 @@ return
     }
 }
 </publishers>
+}
